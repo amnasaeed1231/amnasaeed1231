@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Amna Saeed 👋  
+🎓 BSCS Student | Learning C++, Python, and Image Processing  
+💻 Interested in Graphic Designing & Software Development  
+📂 Check out my projects below!  
 
-<!--
-**amnasaeed1231/amnasaeed1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Projects  
+- *Library Management System (C++)* 📚  
+- *Image Processing Techniques (Python)* 🖼️  
+- *Data Mining Algorithms (Python)* 📊  
+- *Operating System Scheduling (C++)* ⚙️  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 *GitHub Repositories*: [Click Here](https://github.com/amnasaeed1231?tab=repositories)
