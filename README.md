@@ -1,6 +1,6 @@
 # Hi, I'm Amna Saeed 👋  
 🎓 BSCS Student | Learning C++, Python, and Image Processing  
-💻 Interested in Graphic Designing & Software Development  
+💻 Interested in Graphic Designing, Software Development AI, Generative AI, Agentic AI, LLM.   
 📂 Check out my projects below!  
 
 ## 🚀 My Projects  
